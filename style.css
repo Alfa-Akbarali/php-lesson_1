@@ -1,0 +1,44 @@
+
+#header
+{
+    padding: 10px;
+    border: 1px solid blue;
+    background-color: orange;
+    padding-top: 150px;
+}
+#main{
+    background-color: aqua;
+    border: 1px solid blue;
+    padding: 10px;
+    padding-top: 150px;
+}
+#footer{
+    padding: 10px;
+    background-color: rgb(248, 100, 100);
+    border: 1px solid blue;
+    padding-top: 100px;
+}
+#empty{
+    padding: 10px;
+    background-color: rgb(235, 221, 221);
+    border: 1px solid blue;
+    padding-top: 100px;
+}
+#sidebar{
+    padding: 10px;
+    background-color: rgb(236, 69, 69);
+    border: 1px solid blue;
+    padding-top: 100px;
+}
+#footer{
+    padding: 10px;
+    background-color: green;
+    border: 1px solid blue;
+    padding-top: 100px;
+}
+.row{
+    height: 100vh;
+    
+    margin: 0;
+   
+}
